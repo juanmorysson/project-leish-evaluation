@@ -1,0 +1,848 @@
+Rodada 0:::::::::::::::::::::
+
+Paciente:2554
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7561269
+Similaridade Coseno das respostas de Amanda e Carlos: 0.83290243
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.82437104
+A Média das similaridades do paciente 2554 é: 0.8045
+
+Paciente:1723
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.617146
+Similaridade Coseno das respostas de Amanda e Carlos: 0.66989326
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8064107
+A Média das similaridades do paciente 1723 é: 0.6978
+
+Paciente:259
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.8379334
+Similaridade Coseno das respostas de Amanda e Carlos: 0.79715353
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.79178613
+A Média das similaridades do paciente 259 é: 0.8090
+
+Paciente:2381
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.6867281
+Similaridade Coseno das respostas de Amanda e Carlos: 0.6516435
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8111611
+A Média das similaridades do paciente 2381 é: 0.7165
+
+A Média Geral de similaridade é: 0.7569
+
+
+Rodada 1:::::::::::::::::::::
+
+Paciente:366
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.76143765
+Similaridade Coseno das respostas de Amanda e Carlos: 0.72629225
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.81121504
+A Média das similaridades do paciente 366 é: 0.7663
+
+Paciente:748
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.6351151
+Similaridade Coseno das respostas de Amanda e Carlos: 0.59813523
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.6059389
+A Média das similaridades do paciente 748 é: 0.6131
+
+Paciente:2867
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7579757
+Similaridade Coseno das respostas de Amanda e Carlos: 0.86169136
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.6513666
+A Média das similaridades do paciente 2867 é: 0.7570
+
+Paciente:1553
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.8078816
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7983832
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8137486
+A Média das similaridades do paciente 1553 é: 0.8067
+
+Paciente:992
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.836469
+Similaridade Coseno das respostas de Amanda e Carlos: 0.90856564
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7692628
+A Média das similaridades do paciente 992 é: 0.8381
+
+Paciente:651
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.6580155
+Similaridade Coseno das respostas de Amanda e Carlos: 0.64818597
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8822123
+A Média das similaridades do paciente 651 é: 0.7295
+
+Paciente:2413
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.90500534
+Similaridade Coseno das respostas de Amanda e Carlos: 0.79836893
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8125794
+A Média das similaridades do paciente 2413 é: 0.8387
+
+Paciente:3076
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7339431
+Similaridade Coseno das respostas de Amanda e Carlos: 0.83465636
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7928537
+A Média das similaridades do paciente 3076 é: 0.7872
+
+Paciente:1221
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.8095572
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7579237
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.67236525
+A Média das similaridades do paciente 1221 é: 0.7466
+
+Paciente:1487
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.83380204
+Similaridade Coseno das respostas de Amanda e Carlos: 0.8727727
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7787116
+A Média das similaridades do paciente 1487 é: 0.8284
+
+Paciente:2272
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7526374
+Similaridade Coseno das respostas de Amanda e Carlos: 0.8810358
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.79401875
+A Média das similaridades do paciente 2272 é: 0.8092
+
+Paciente:2396
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7370381
+Similaridade Coseno das respostas de Amanda e Carlos: 0.8275013
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7504624
+A Média das similaridades do paciente 2396 é: 0.7717
+
+
+A Média Geral de similaridade é: 0.7744
+
+
+Rodada 2:::::::::::::::::::::
+
+Paciente:488
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.86587805
+Similaridade Coseno das respostas de Amanda e Carlos: 0.86283386
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8314165
+A Média das similaridades do paciente 488 é: 0.8534
+
+Paciente:2207
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.75298893
+Similaridade Coseno das respostas de Amanda e Carlos: 0.8643471
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.76697904
+A Média das similaridades do paciente 2207 é: 0.7948
+
+Paciente:468
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.76042527
+Similaridade Coseno das respostas de Amanda e Carlos: 0.8510137
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7768228
+A Média das similaridades do paciente 468 é: 0.7961
+
+Paciente:3054
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7668131
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7471415
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7213278
+A Média das similaridades do paciente 3054 é: 0.7451
+
+Paciente:1203
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7223407
+Similaridade Coseno das respostas de Amanda e Carlos: 0.83662665
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7775055
+A Média das similaridades do paciente 1203 é: 0.7788
+
+Paciente:1733
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7769715
+Similaridade Coseno das respostas de Amanda e Carlos: 0.8298343
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8298878
+A Média das similaridades do paciente 1733 é: 0.8122
+
+Paciente:1722
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.81015325
+Similaridade Coseno das respostas de Amanda e Carlos: 0.8603492
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.82368475
+A Média das similaridades do paciente 1722 é: 0.8314
+
+Paciente:2149
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.73673147
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7844038
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7400724
+A Média das similaridades do paciente 2149 é: 0.7537
+
+Paciente:2416
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7058872
+Similaridade Coseno das respostas de Amanda e Carlos: 0.5576383
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7261621
+A Média das similaridades do paciente 2416 é: 0.6632
+
+Paciente:396
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.8866266
+Similaridade Coseno das respostas de Amanda e Carlos: 0.6970867
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.72444123
+A Média das similaridades do paciente 396 é: 0.7694
+
+Paciente:643
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.8557879
+Similaridade Coseno das respostas de Amanda e Carlos: 0.81630313
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.77418274
+A Média das similaridades do paciente 643 é: 0.8154
+
+Paciente:1895
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.8156022
+Similaridade Coseno das respostas de Amanda e Carlos: 0.83184814
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7549543
+A Média das similaridades do paciente 1895 é: 0.8008
+
+A Média Geral de similaridade é: 0.7845
+
+
+Rodada 3:::::::::::::::::::::
+
+Paciente:2851
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.8861674
+Similaridade Coseno das respostas de Amanda e Carlos: 0.83493257
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8458544
+A Média das similaridades do paciente 2851 é: 0.8557
+
+Paciente:318
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.85193455
+Similaridade Coseno das respostas de Amanda e Carlos: 0.8122473
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.75951135
+A Média das similaridades do paciente 318 é: 0.8079
+
+Paciente:2013
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.70144486
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7869662
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.602594
+A Média das similaridades do paciente 2013 é: 0.6970
+
+Paciente:2198
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7305205
+Similaridade Coseno das respostas de Amanda e Carlos: 0.66691643
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.74468523
+A Média das similaridades do paciente 2198 é: 0.7140
+
+Paciente:2704
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.72803974
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7726617
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8627076
+A Média das similaridades do paciente 2704 é: 0.7878
+
+Paciente:31
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.8130144
+Similaridade Coseno das respostas de Amanda e Carlos: 0.8339779
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8284223
+A Média das similaridades do paciente 31 é: 0.8251
+
+Paciente:1343
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.8438678
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7499883
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.78063774
+A Média das similaridades do paciente 1343 é: 0.7915
+
+Paciente:1634
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.8097389
+Similaridade Coseno das respostas de Amanda e Carlos: 0.6883072
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7374306
+A Média das similaridades do paciente 1634 é: 0.7452
+
+Paciente:1915
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.8200647
+Similaridade Coseno das respostas de Amanda e Carlos: 0.81465775
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8112505
+A Média das similaridades do paciente 1915 é: 0.8153
+
+Paciente:2373
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.82596034
+Similaridade Coseno das respostas de Amanda e Carlos: 0.71606547
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.72205055
+A Média das similaridades do paciente 2373 é: 0.7547
+
+Paciente:935
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7917312
+Similaridade Coseno das respostas de Amanda e Carlos: 0.8460825
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.83996403
+A Média das similaridades do paciente 935 é: 0.8259
+
+Paciente:2403
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.59006536
+Similaridade Coseno das respostas de Amanda e Carlos: 0.8333264
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.5500053
+A Média das similaridades do paciente 2403 é: 0.6578
+
+A Média Geral de similaridade é: 0.7732
+
+
+
+Rodada 4:::::::::::::::::::::
+
+Paciente:2267
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.61372757
+Similaridade Coseno das respostas de Amanda e Carlos: 0.6906469
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.5889789
+A Média das similaridades do paciente 2267 é: 0.6311
+
+Paciente:2218
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.69062924
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7579742
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.76287735
+A Média das similaridades do paciente 2218 é: 0.7372
+
+Paciente:1796
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.8265457
+Similaridade Coseno das respostas de Amanda e Carlos: 0.78662103
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7559433
+A Média das similaridades do paciente 1796 é: 0.7897
+
+Paciente:475
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7779784
+Similaridade Coseno das respostas de Amanda e Carlos: 0.79918814
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7731205
+A Média das similaridades do paciente 475 é: 0.7834
+
+Paciente:2136
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7763729
+Similaridade Coseno das respostas de Amanda e Carlos: 0.6097267
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.5912535
+A Média das similaridades do paciente 2136 é: 0.6591
+
+Paciente:2339
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.68423235
+Similaridade Coseno das respostas de Amanda e Carlos: 0.66870105
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7567578
+A Média das similaridades do paciente 2339 é: 0.7032
+
+Paciente:2686
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.77741826
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7872975
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8238984
+A Média das similaridades do paciente 2686 é: 0.7962
+
+Paciente:3081
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7823014
+Similaridade Coseno das respostas de Amanda e Carlos: 0.6812011
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.77856946
+A Média das similaridades do paciente 3081 é: 0.7474
+
+Paciente:2861
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.64184415
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7166899
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.83885527
+A Média das similaridades do paciente 2861 é: 0.7325
+
+Paciente:770
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.65607893
+Similaridade Coseno das respostas de Amanda e Carlos: 0.51362574
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.6455194
+A Média das similaridades do paciente 770 é: 0.6051
+
+Paciente:212
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.88992417
+Similaridade Coseno das respostas de Amanda e Carlos: 0.63455075
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.70155436
+A Média das similaridades do paciente 212 é: 0.7420
+
+Paciente:2909
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.81826735
+Similaridade Coseno das respostas de Amanda e Carlos: 0.88467896
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.72793174
+A Média das similaridades do paciente 2909 é: 0.8103
+
+A Média Geral de similaridade é: 0.7281
+
+
+
+Rodada 5:::::::::::::::::::::
+
+Paciente:40
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.8880496
+Similaridade Coseno das respostas de Amanda e Carlos: 0.64177346
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7229167
+A Média das similaridades do paciente 40 é: 0.7509
+
+Paciente:1935
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.81598175
+Similaridade Coseno das respostas de Amanda e Carlos: 0.6236422
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7288859
+A Média das similaridades do paciente 1935 é: 0.7228
+
+Paciente:122
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.79487336
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7114793
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8326582
+A Média das similaridades do paciente 122 é: 0.7797
+
+Paciente:2
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.74198234
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7295179
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7625153
+A Média das similaridades do paciente 2 é: 0.7447
+
+Paciente:1844
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.84939015
+Similaridade Coseno das respostas de Amanda e Carlos: 0.8168433
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7646485
+A Média das similaridades do paciente 1844 é: 0.8103
+
+Paciente:763
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.737085
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7723135
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.6907973
+A Média das similaridades do paciente 763 é: 0.7334
+
+Paciente:1653
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.82719564
+Similaridade Coseno das respostas de Amanda e Carlos: 0.80755055
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8109738
+A Média das similaridades do paciente 1653 é: 0.8152
+
+Paciente:2486
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.8272723
+Similaridade Coseno das respostas de Amanda e Carlos: 0.82920456
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.78072786
+A Média das similaridades do paciente 2486 é: 0.8124
+
+Paciente:1390
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7939963
+Similaridade Coseno das respostas de Amanda e Carlos: 0.80926025
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8857137
+A Média das similaridades do paciente 1390 é: 0.8297
+
+Paciente:771
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.85028195
+Similaridade Coseno das respostas de Amanda e Carlos: 0.9040997
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8857675
+A Média das similaridades do paciente 771 é: 0.8800
+
+Paciente:1362
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.81992555
+Similaridade Coseno das respostas de Amanda e Carlos: 0.77762747
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.72308606
+A Média das similaridades do paciente 1362 é: 0.7735
+
+Paciente:54
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.8053601
+Similaridade Coseno das respostas de Amanda e Carlos: 0.59938014
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.6617526
+A Média das similaridades do paciente 54 é: 0.6888
+
+A Média Geral de similaridade é: 0.7785
+
+
+
+Rodada 6:::::::::::::::::::::
+
+Paciente:780
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.8408244
+Similaridade Coseno das respostas de Amanda e Carlos: 0.85969245
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.74118906
+A Média das similaridades do paciente 780 é: 0.8139
+
+Paciente:1500
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7354504
+Similaridade Coseno das respostas de Amanda e Carlos: 0.80140305
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8478646
+A Média das similaridades do paciente 1500 é: 0.7949
+
+Paciente:1451
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.89549136
+Similaridade Coseno das respostas de Amanda e Carlos: 0.79902756
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8751425
+A Média das similaridades do paciente 1451 é: 0.8566
+
+Paciente:2744
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7866862
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7949264
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7476599
+A Média das similaridades do paciente 2744 é: 0.7764
+
+Paciente:2061
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.71619546
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7549846
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8114972
+A Média das similaridades do paciente 2061 é: 0.7609
+
+Paciente:2529
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.72960246
+Similaridade Coseno das respostas de Amanda e Carlos: 0.76197815
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.6742834
+A Média das similaridades do paciente 2529 é: 0.7220
+
+Paciente:1743
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.85753995
+Similaridade Coseno das respostas de Amanda e Carlos: 0.76055217
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8298849
+A Média das similaridades do paciente 1743 é: 0.8160
+
+Paciente:2130
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.81625473
+Similaridade Coseno das respostas de Amanda e Carlos: 0.85610425
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.788201
+A Média das similaridades do paciente 2130 é: 0.8202
+
+Paciente:800
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.6459979
+Similaridade Coseno das respostas de Amanda e Carlos: 0.825529
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.6092396
+A Média das similaridades do paciente 800 é: 0.6936
+
+Paciente:94
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.77644837
+Similaridade Coseno das respostas de Amanda e Carlos: 0.8586319
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8184216
+A Média das similaridades do paciente 94 é: 0.8178
+
+Paciente:1054
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.87079966
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7757391
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.77730656
+A Média das similaridades do paciente 1054 é: 0.8079
+
+Paciente:2654
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.75738525
+Similaridade Coseno das respostas de Amanda e Carlos: 0.8171334
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8055249
+A Média das similaridades do paciente 2654 é: 0.7933
+
+A Média Geral de similaridade é: 0.7895
+
+
+
+
+
+Rodada 7:::::::::::::::::::::
+
+Paciente:1546
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7649479
+Similaridade Coseno das respostas de Amanda e Carlos: 0.82991886
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7466295
+A Média das similaridades do paciente 1546 é: 0.7805
+
+Paciente:805
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.6899867
+Similaridade Coseno das respostas de Amanda e Carlos: 0.6229499
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.82232296
+A Média das similaridades do paciente 805 é: 0.7118
+
+Paciente:1904
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.83326566
+Similaridade Coseno das respostas de Amanda e Carlos: 0.58543587
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.51428694
+A Média das similaridades do paciente 1904 é: 0.6443
+
+Paciente:579
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.702214
+Similaridade Coseno das respostas de Amanda e Carlos: 0.6462866
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7627009
+A Média das similaridades do paciente 579 é: 0.7037
+
+Paciente:959
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.58765006
+Similaridade Coseno das respostas de Amanda e Carlos: 0.6370392
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.6627414
+A Média das similaridades do paciente 959 é: 0.6291
+
+Paciente:2335
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.6485118
+Similaridade Coseno das respostas de Amanda e Carlos: 0.77544665
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7321508
+A Média das similaridades do paciente 2335 é: 0.7187
+
+Paciente:436
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.6730907
+Similaridade Coseno das respostas de Amanda e Carlos: 0.6417747
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8957941
+A Média das similaridades do paciente 436 é: 0.7369
+
+Paciente:680
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.86047864
+Similaridade Coseno das respostas de Amanda e Carlos: 0.61578125
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.6669079
+A Média das similaridades do paciente 680 é: 0.7144
+
+Paciente:1856
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.67895246
+Similaridade Coseno das respostas de Amanda e Carlos: 0.55938244
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.45595658
+A Média das similaridades do paciente 1856 é: 0.5648
+
+Paciente:618
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.6861682
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7601359
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.82637644
+A Média das similaridades do paciente 618 é: 0.7576
+
+Paciente:2372
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.78190863
+Similaridade Coseno das respostas de Amanda e Carlos: 0.71171546
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8073182
+A Média das similaridades do paciente 2372 é: 0.7670
+
+Paciente:708
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.73772436
+Similaridade Coseno das respostas de Amanda e Carlos: 0.5157022
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7106482
+A Média das similaridades do paciente 708 é: 0.6547
+
+A Média Geral de similaridade é: 0.6986
+
+
+
+Rodada 8:::::::::::::::::::::
+
+Paciente:1505
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.71659195
+Similaridade Coseno das respostas de Amanda e Carlos: 0.68941504
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.9208031
+A Média das similaridades do paciente 1505 é: 0.7756
+
+Paciente:186
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.58498406
+Similaridade Coseno das respostas de Amanda e Carlos: 0.6721381
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.74928963
+A Média das similaridades do paciente 186 é: 0.6688
+
+Paciente:1730
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.55270314
+Similaridade Coseno das respostas de Amanda e Carlos: 0.77090824
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.585525
+A Média das similaridades do paciente 1730 é: 0.6364
+
+Paciente:2611
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.5542096
+Similaridade Coseno das respostas de Amanda e Carlos: 0.54480654
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.70617247
+A Média das similaridades do paciente 2611 é: 0.6017
+
+Paciente:2223
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.6554401
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7012242
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.86241007
+A Média das similaridades do paciente 2223 é: 0.7397
+
+Paciente:2565
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.69622004
+Similaridade Coseno das respostas de Amanda e Carlos: 0.72233003
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7537838
+A Média das similaridades do paciente 2565 é: 0.7241
+
+Paciente:2195
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.5549338
+Similaridade Coseno das respostas de Amanda e Carlos: 0.70079243
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8675238
+A Média das similaridades do paciente 2195 é: 0.7078
+
+Paciente:2801
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7964982
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7480216
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.88831896
+A Média das similaridades do paciente 2801 é: 0.8109
+
+Paciente:2760
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.6712601
+Similaridade Coseno das respostas de Amanda e Carlos: 0.78194684
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.75807256
+A Média das similaridades do paciente 2760 é: 0.7371
+
+Paciente:181
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7269382
+Similaridade Coseno das respostas de Amanda e Carlos: 0.843835
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.77396464
+A Média das similaridades do paciente 181 é: 0.7816
+
+Paciente:1979
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.74965185
+Similaridade Coseno das respostas de Amanda e Carlos: 0.86001945
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8075628
+A Média das similaridades do paciente 1979 é: 0.8057
+
+Paciente:2896
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.54381514
+Similaridade Coseno das respostas de Amanda e Carlos: 0.4934842
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.809249
+A Média das similaridades do paciente 2896 é: 0.6155
+
+A Média Geral de similaridade é: 0.7171
+
+
+
+Rodada 9:::::::::::::::::::::
+Paciente:2049
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7078701
+Similaridade Coseno das respostas de Amanda e Carlos: 0.75387406
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.75029266
+A Média das similaridades do paciente 2049 é: 0.7373
+
+Paciente:3041
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.65624857
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7627897
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8374891
+A Média das similaridades do paciente 3041 é: 0.7522
+
+Paciente:2782
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.6223027
+Similaridade Coseno das respostas de Amanda e Carlos: 0.75241774
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7066285
+A Média das similaridades do paciente 2782 é: 0.6938
+
+Paciente:1719
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.8974635
+Similaridade Coseno das respostas de Amanda e Carlos: 0.75564134
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.83591795
+A Média das similaridades do paciente 1719 é: 0.8297
+
+Paciente:321
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.69590575
+Similaridade Coseno das respostas de Amanda e Carlos: 0.76002026
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.6440327
+A Média das similaridades do paciente 321 é: 0.7000
+
+Paciente:2567
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.80923426
+Similaridade Coseno das respostas de Amanda e Carlos: 0.8162249
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.75240576
+A Média das similaridades do paciente 2567 é: 0.7926
+
+Paciente:435
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.74946845
+Similaridade Coseno das respostas de Amanda e Carlos: 0.7230156
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.7184862
+A Média das similaridades do paciente 435 é: 0.7303
+
+Paciente:2902
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7257488
+Similaridade Coseno das respostas de Amanda e Carlos: 0.6880339
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.73056376
+A Média das similaridades do paciente 2902 é: 0.7148
+
+Paciente:289
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7963996
+Similaridade Coseno das respostas de Amanda e Carlos: 0.8996799
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.83604956
+A Média das similaridades do paciente 289 é: 0.8440
+
+Paciente:323
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.7784987
+Similaridade Coseno das respostas de Amanda e Carlos: 0.790151
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8648918
+A Média das similaridades do paciente 323 é: 0.8112
+
+Paciente:444
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.6500436
+Similaridade Coseno das respostas de Amanda e Carlos: 0.8875778
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.61678696
+A Média das similaridades do paciente 444 é: 0.7181
+
+Paciente:1761
+Qtd respostas:3
+Similaridade Coseno das respostas de Amanda e Beatriz: 0.76942605
+Similaridade Coseno das respostas de Amanda e Carlos: 0.8284311
+Similaridade Coseno das respostas de Beatriz e Carlos: 0.8566216
+A Média das similaridades do paciente 1761 é: 0.8182
+A Média Geral de similaridade é: 0.7619
+
+
+
+Coerencia
+--- Desempenho por Modelo ---
+          Media_BERTScore  Percentual_Aprovado
+resposta
+a                0.804731           100.000000
+b                0.689420            74.975720
+c                0.709584            79.346067

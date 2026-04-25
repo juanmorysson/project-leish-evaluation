@@ -1,0 +1,677 @@
+rodada;diretriz;diretriz_sem_correção
+0;Baseado nos valores shapley acima (valores de maior importância de um modelo de IA), que formam o gráfico SHAP waterfall de um paciente {X} com Leishmaniose Visceral (com risco de morte {risco}% predito pelo modelo de IA), explique o que significa cada parte do gráfico explicando o nível de importância de cada feature e indicando as  medidas de manejo clínico descritas na literatura para cada feature que eleve o risco.;
+1;"Baseado nos valores SHAP acima (valores de maior importância de um modelo de IA), que formam o gráfico SHAP waterfall de um paciente {X} com Leishmaniose Visceral (com risco de morte {risco}% predito pelo modelo de IA), explique o que significa cada parte do gráfico, detalhando o nível de importância de cada feature. Além disso, indique as medidas de manejo clínico descritas na literatura para cada feature que eleve o risco, incluindo aquelas que influenciam positivamente para aumentar o risco de morte. Considere também a importância de investigar e monitorar valores atípicos, como os de plaquetas, e a necessidade de integrar outros fatores clínicos além dos valores SHAP para uma tomada de decisão abrangente. Recomende ações específicas para o tratamento clínico, com base na gravidade dos achados e na literatura disponível.
+
+#### Componentes da Diretriz:
+
+1. **Interpretação do Gráfico SHAP Waterfall:**
+   - **Descrição de Cada Feature:** Forneça uma explicação clara de cada feature listada no gráfico, incluindo sua relevância clínica e como ela contribui para o risco predito.
+   - **Nível de Importância:** Classifique cada feature com base em seu impacto no risco de morte, destacando as que têm maior influência positiva ou negativa.
+
+2. **Medidas de Manejo Clínico:**
+   - **Features que Elevam o Risco:** Para cada feature que aumenta o risco, liste as medidas de manejo clínico recomendadas, baseadas em diretrizes e literatura atual.
+   - **Features que Diminuem o Risco:** Inclua também as features que reduzem o risco, destacando práticas que podem ser reforçadas para melhorar o prognóstico.
+
+3. **Investigação de Valores Atípicos:**
+   - **Monitoramento de Anomalias:** Destaque a importância de investigar valores atípicos, como contagens de plaquetas fora do normal, e suas implicações clínicas.
+   - **Ações Corretivas:** Sugira ações corretivas ou monitoramento adicional para valores atípicos identificados.
+
+4. **Integração de Fatores Clínicos:**
+   - **Consideração de Contexto Clínico:** Encoraje a consideração de outros fatores clínicos além dos valores SHAP, como histórico médico do paciente, sintomas atuais e condições coexistentes.
+   - **Tomada de Decisão Holística:** Promova uma abordagem holística na tomada de decisão, integrando dados do modelo de IA com julgamento clínico.
+
+5. **Recomendações de Tratamento:**
+   - **Ações Específicas:** Forneça recomendações específicas para o tratamento clínico, adaptadas à gravidade dos achados e ao contexto clínico do paciente.
+   - **Base na Literatura:** Assegure que todas as recomendações estejam alinhadas com as melhores práticas e diretrizes clínicas disponíveis.
+
+#### Aplicação Prática:
+
+- **Exemplo de Aplicação:**
+  - **Plaquetas = 6 (impacto SHAP = 10.51364):**
+    - **Descrição:** Baixa contagem de plaquetas, indicando possível hipoplasia plaquetária.
+    - **Medidas de Manejo:** Monitorar coagulação, considerar estrogênios ou infusão de plaquetas, e manter hidratação adequada.
+  - **Idadedias = 319 (impacto SHAP = 7.77383):**
+    - **Descrição:** Indicador de duração da doença ou idade do paciente.
+    - **Medidas de Manejo:** Avaliar condição geral, monitorar sinais vitais e ajustar tratamento conforme necessário.
+
+Esta diretriz refinada visa proporcionar uma abordagem abrangente e detalhada para o manejo de pacientes com Leishmaniose Visceral, utilizando insights de modelos de IA para melhorar a tomada de decisão clínica.";"### Nova Diretriz Refinada
+
+Baseado nos valores SHAP acima (valores de maior importância de um modelo de IA), que formam o gráfico SHAP waterfall de um paciente {X} com Leishmaniose Visceral (com risco de morte {risco}% predito pelo modelo de IA), explique o que significa cada parte do gráfico, detalhando o nível de importância de cada feature. Além disso, indique as medidas de manejo clínico descritas na literatura para cada feature que eleve o risco, incluindo aquelas que influenciam positivamente para aumentar o risco de morte. Considere também a importância de investigar e monitorar valores atípicos, como os de plaquetas, e a necessidade de integrar outros fatores clínicos além dos valores SHAP para uma tomada de decisão abrangente. Recomende ações específicas para o tratamento clínico, com base na gravidade dos achados e na literatura disponível.
+
+#### Componentes da Diretriz:
+
+1. **Interpretação do Gráfico SHAP Waterfall:**
+   - **Descrição de Cada Feature:** Forneça uma explicação clara de cada feature listada no gráfico, incluindo sua relevância clínica e como ela contribui para o risco predito.
+   - **Nível de Importância:** Classifique cada feature com base em seu impacto no risco de morte, destacando as que têm maior influência positiva ou negativa.
+
+2. **Medidas de Manejo Clínico:**
+   - **Features que Elevam o Risco:** Para cada feature que aumenta o risco, liste as medidas de manejo clínico recomendadas, baseadas em diretrizes e literatura atual.
+   - **Features que Diminuem o Risco:** Inclua também as features que reduzem o risco, destacando práticas que podem ser reforçadas para melhorar o prognóstico.
+
+3. **Investigação de Valores Atípicos:**
+   - **Monitoramento de Anomalias:** Destaque a importância de investigar valores atípicos, como contagens de plaquetas fora do normal, e suas implicações clínicas.
+   - **Ações Corretivas:** Sugira ações corretivas ou monitoramento adicional para valores atípicos identificados.
+
+4. **Integração de Fatores Clínicos:**
+   - **Consideração de Contexto Clínico:** Encoraje a consideração de outros fatores clínicos além dos valores SHAP, como histórico médico do paciente, sintomas atuais e condições coexistentes.
+   - **Tomada de Decisão Holística:** Promova uma abordagem holística na tomada de decisão, integrando dados do modelo de IA com julgamento clínico.
+
+5. **Recomendações de Tratamento:**
+   - **Ações Específicas:** Forneça recomendações específicas para o tratamento clínico, adaptadas à gravidade dos achados e ao contexto clínico do paciente.
+   - **Base na Literatura:** Assegure que todas as recomendações estejam alinhadas com as melhores práticas e diretrizes clínicas disponíveis.
+
+#### Aplicação Prática:
+
+- **Exemplo de Aplicação:**
+  - **Plaquetas = 6 (impacto SHAP = 10.51364):**
+    - **Descrição:** Baixa contagem de plaquetas, indicando possível hipoplasia plaquetária.
+    - **Medidas de Manejo:** Monitorar coagulação, considerar estrogênios ou infusão de plaquetas, e manter hidratação adequada.
+  - **Idadedias = 319 (impacto SHAP = 7.77383):**
+    - **Descrição:** Indicador de duração da doença ou idade do paciente.
+    - **Medidas de Manejo:** Avaliar condição geral, monitorar sinais vitais e ajustar tratamento conforme necessário.
+
+Esta diretriz refinada visa proporcionar uma abordagem abrangente e detalhada para o manejo de pacientes com Leishmaniose Visceral, utilizando insights de modelos de IA para melhorar a tomada de decisão clínica."
+2;"Baseado nos valores SHAP acima (valores de maior importância de um modelo de IA), que formam o gráfico SHAP waterfall de um paciente {X} com Leishmaniose Visceral (com risco de morte {risco}% predito pelo modelo de IA), a diretriz a seguir fornece uma abordagem abrangente para análise e manejo clínico, integrando insights de IA com práticas médicas éticas e informadas.**
+
+#### Componentes da Diretriz:
+
+1. **Interpretação do Gráfico SHAP Waterfall:**
+   - **Descrição de Cada Feature:** Forneça uma explicação clara de cada feature listada no gráfico, destacando sua relevância clínica e impacto no risco predito de morte. Identifique as features com maior influência positiva ou negativa.
+   - **Análise Completa dos Valores SHAP:** Avalie todos os valores SHAP que contribuem para o aumento do risco de morte, explicando como cada feature afeta o risco predito.
+
+2. **Medidas de Manejo Clínico:**
+   - **Features que Elevam o Risco:** Para cada feature que aumenta o risco, liste as medidas de manejo clínico recomendadas, baseadas em diretrizes e literatura atual. Destaque ações específicas para mitigar o risco.
+   - **Features que Diminuem o Risco:** Inclua também as features que reduzem o risco, destacando práticas que podem ser reforçadas para melhorar o prognóstico.
+
+3. **Investigação de Valores Atípicos:**
+   - **Monitoramento de Anomalias:** Destaque a importância de investigar valores atípicos, como contagens de plaquetas fora do normal, e suas implicações clínicas.
+   - **Ações Corretivas:** Sugira ações corretivas ou monitoramento adicional para valores atípicos identificados.
+
+4. **Integração de Fatores Clínicos:**
+   - **Consideração de Contexto Clínico:** Encoraje a consideração de outros fatores clínicos além dos valores SHAP, como histórico médico do paciente, sintomas atuais e condições coexistentes.
+   - **Tomada de Decisão Holística:** Promova uma abordagem holística na tomada de decisão, integrando dados do modelo de IA com julgamento clínico.
+
+5. **Recomendações de Tratamento:**
+   - **Ações Específicas:** Forneça recomendações específicas para o tratamento clínico, adaptadas à gravidade dos achados e ao contexto clínico do paciente.
+   - **Base na Literatura:** Assegure que todas as recomendações estejam alinhadas com as melhores práticas e diretrizes clínicas disponíveis.
+
+#### Aplicação Prática:
+
+- **Exemplo de Aplicação:**
+  - **Plaquetas = 6 (impacto SHAP = 10.51364):**
+    - **Descrição:** Baixa contagem de plaquetas, indicando possível hipoplasia plaquetária.
+    - **Medidas de Manejo:** Monitorar coagulação, considerar estrogênios ou infusão de plaquetas, e manter hidratação adequada. Ajustar a terapia antipalúdica para minimizar efeitos secundários que possam impactar a coagulação.
+  - **Idagedias = 319 (impacto SHAP = 7.77383):**
+    - **Descrição:** Indicador de duração da doença ou idade do paciente.
+    - **Medidas de Manejo:** Avaliar condição geral, monitorar sinais vitais e ajustar tratamento conforme necessário, considerando comorbidades e interações medicamentosas.
+
+Esta diretriz visa fornecer uma abordagem abrangente e detalhada para o manejo de pacientes com Leishmaniose Visceral, utilizando insights de modelos de IA para melhorar a tomada de decisão clínica, garantindo uma avaliação técnica completa e uma aplicação ética e informada.";"### Nova Diretriz Refinada para Manejo de Pacientes com Leishmaniose Visceral
+
+**Baseado nos valores SHAP acima (valores de maior importância de um modelo de IA), que formam o gráfico SHAP waterfall de um paciente {X} com Leishmaniose Visceral (com risco de morte {risco}% predito pelo modelo de IA), a diretriz a seguir fornece uma abordagem abrangente para análise e manejo clínico, integrando insights de IA com práticas médicas éticas e informadas.**
+
+#### Componentes da Diretriz:
+
+1. **Interpretação do Gráfico SHAP Waterfall:**
+   - **Descrição de Cada Feature:** Forneça uma explicação clara de cada feature listada no gráfico, destacando sua relevância clínica e impacto no risco predito de morte. Identifique as features com maior influência positiva ou negativa.
+   - **Análise Completa dos Valores SHAP:** Avalie todos os valores SHAP que contribuem para o aumento do risco de morte, explicando como cada feature afeta o risco predito.
+
+2. **Medidas de Manejo Clínico:**
+   - **Features que Elevam o Risco:** Para cada feature que aumenta o risco, liste as medidas de manejo clínico recomendadas, baseadas em diretrizes e literatura atual. Destaque ações específicas para mitigar o risco.
+   - **Features que Diminuem o Risco:** Inclua também as features que reduzem o risco, destacando práticas que podem ser reforçadas para melhorar o prognóstico.
+
+3. **Investigação de Valores Atípicos:**
+   - **Monitoramento de Anomalias:** Destaque a importância de investigar valores atípicos, como contagens de plaquetas fora do normal, e suas implicações clínicas.
+   - **Ações Corretivas:** Sugira ações corretivas ou monitoramento adicional para valores atípicos identificados.
+
+4. **Integração de Fatores Clínicos:**
+   - **Consideração de Contexto Clínico:** Encoraje a consideração de outros fatores clínicos além dos valores SHAP, como histórico médico do paciente, sintomas atuais e condições coexistentes.
+   - **Tomada de Decisão Holística:** Promova uma abordagem holística na tomada de decisão, integrando dados do modelo de IA com julgamento clínico.
+
+5. **Recomendações de Tratamento:**
+   - **Ações Específicas:** Forneça recomendações específicas para o tratamento clínico, adaptadas à gravidade dos achados e ao contexto clínico do paciente.
+   - **Base na Literatura:** Assegure que todas as recomendações estejam alinhadas com as melhores práticas e diretrizes clínicas disponíveis.
+
+#### Aplicação Prática:
+
+- **Exemplo de Aplicação:**
+  - **Plaquetas = 6 (impacto SHAP = 10.51364):**
+    - **Descrição:** Baixa contagem de plaquetas, indicando possível hipoplasia plaquetária.
+    - **Medidas de Manejo:** Monitorar coagulação, considerar estrogênios ou infusão de plaquetas, e manter hidratação adequada. Ajustar a terapia antipalúdica para minimizar efeitos secundários que possam impactar a coagulação.
+  - **Idagedias = 319 (impacto SHAP = 7.77383):**
+    - **Descrição:** Indicador de duração da doença ou idade do paciente.
+    - **Medidas de Manejo:** Avaliar condição geral, monitorar sinais vitais e ajustar tratamento conforme necessário, considerando comorbidades e interações medicamentosas.
+
+Esta diretriz visa fornecer uma abordagem abrangente e detalhada para o manejo de pacientes com Leishmaniose Visceral, utilizando insights de modelos de IA para melhorar a tomada de decisão clínica, garantindo uma avaliação técnica completa e uma aplicação ética e informada."
+3;"Baseado nos valores SHAP acima (valores de maior importância de um modelo de IA), que formam o gráfico SHAP waterfall de um paciente {X} com Leishmaniose Visceral (com risco de morte {risco}% predito pelo modelo de IA), a diretriz a seguir fornece uma abordagem abrangente para análise e manejo clínico, integrando insights de IA com práticas médicas éticas e informadas.
+
+#### Componentes da Diretriz:
+
+1. **Interpretação do Gráfico SHAP Waterfall:**
+   - **Descrição de Cada Feature:** Forneça uma explicação clara de cada feature listada no gráfico, destacando sua relevância clínica e impacto no risco predito de morte. Identifique as features com maior influência positiva ou negativa.
+   - **Análise Completa dos Valores SHAP:** Avalie todos os valores SHAP que contribuem para o aumento do risco de morte, explicando como cada feature afeta o risco predito.
+
+2. **Medidas de Manejo Clínico:**
+   - **Features que Elevam o Risco:** Para cada feature que aumenta o risco, liste as medidas de manejo clínico recomendadas, baseadas em diretrizes e literatura atual. Destaque ações específicas para mitigar o risco.
+   - **Features que Diminuem o Risco:** Inclua também as features que reduzem o risco, destacando práticas que podem ser reforçadas para melhorar o prognóstico.
+
+3. **Investigação de Valores Atípicos:**
+   - **Monitoramento de Anomalias:** Destaque a importância de investigar valores atípicos, como contagens de plaquetas fora do normal, e suas implicações clínicas.
+   - **Ações Corretivas:** Sugira ações corretivas ou monitoramento adicional para valores atípicos identificados.
+
+4. **Integração de Fatores Clínicos:**
+   - **Consideração de Contexto Clínico:** Encoraje a consideração de outros fatores clínicos além dos valores SHAP, como histórico médico do paciente, sintomas atuais e condições coexistentes.
+   - **Tomada de Decisão Holística:** Promova uma abordagem holística na tomada de decisão, integrando dados do modelo de IA com julgamento clínico.
+
+5. **Recomendações de Tratamento:**
+   - **Ações Específicas:** Forneça recomendações específicas para o tratamento clínico, adaptadas à gravidade dos achados e ao contexto clínico do paciente.
+   - **Base na Literatura:** Assegure que todas as recomendações estejam alinhadas com as melhores práticas e diretrizes clínicas disponíveis.
+
+#### Aplicação Prática:
+
+- **Exemplo de Aplicação:**
+  - **Plaquetas = 6 (impacto SHAP = 10.51364):**
+    - **Descrição:** Baixa contagem de plaquetas, indicando possível hipoplasia plaquetária.
+    - **Medidas de Manejo:** Monitorar coagulação, considerar estrogênios ou infusão de plaquetas, e manter hidratação adequada. Ajustar a terapia antipalúdica para minimizar efeitos secundários que possam impactar a coagulação.
+  - **Idagedias = 319 (impacto SHAP = 7.77383):**
+    - **Descrição:** Indicador de duração da doença ou idade do paciente.
+    - **Medidas de Manejo:** Avaliar condição geral, monitorar sinais vitais e ajustar tratamento conforme necessário, considerando comorbidades e interações medicamentosas.
+
+Esta diretriz visa fornecer uma abordagem abrangente e detalhada para o manejo de pacientes com Leishmaniose Visceral, utilizando insights de modelos de IA para melhorar a tomada de decisão clínica, garantindo uma avaliação técnica completa e uma aplicação ética e informada.";"### Diretriz Revisada para Análise e Manejo Clínico de Pacientes com Leishmaniose Visceral
+
+Baseado nos valores SHAP acima (valores de maior importância de um modelo de IA), que formam o gráfico SHAP waterfall de um paciente {X} com Leishmaniose Visceral (com risco de morte {risco}% predito pelo modelo de IA), a diretriz a seguir fornece uma abordagem abrangente para análise e manejo clínico, integrando insights de IA com práticas médicas éticas e informadas.
+
+#### Componentes da Diretriz:
+
+1. **Interpretação do Gráfico SHAP Waterfall:**
+   - **Descrição de Cada Feature:** Forneça uma explicação clara de cada feature listada no gráfico, destacando sua relevância clínica e impacto no risco predito de morte. Identifique as features com maior influência positiva ou negativa.
+   - **Análise Completa dos Valores SHAP:** Avalie todos os valores SHAP que contribuem para o aumento do risco de morte, explicando como cada feature afeta o risco predito.
+
+2. **Medidas de Manejo Clínico:**
+   - **Features que Elevam o Risco:** Para cada feature que aumenta o risco, liste as medidas de manejo clínico recomendadas, baseadas em diretrizes e literatura atual. Destaque ações específicas para mitigar o risco.
+   - **Features que Diminuem o Risco:** Inclua também as features que reduzem o risco, destacando práticas que podem ser reforçadas para melhorar o prognóstico.
+
+3. **Investigação de Valores Atípicos:**
+   - **Monitoramento de Anomalias:** Destaque a importância de investigar valores atípicos, como contagens de plaquetas fora do normal, e suas implicações clínicas.
+   - **Ações Corretivas:** Sugira ações corretivas ou monitoramento adicional para valores atípicos identificados.
+
+4. **Integração de Fatores Clínicos:**
+   - **Consideração de Contexto Clínico:** Encoraje a consideração de outros fatores clínicos além dos valores SHAP, como histórico médico do paciente, sintomas atuais e condições coexistentes.
+   - **Tomada de Decisão Holística:** Promova uma abordagem holística na tomada de decisão, integrando dados do modelo de IA com julgamento clínico.
+
+5. **Recomendações de Tratamento:**
+   - **Ações Específicas:** Forneça recomendações específicas para o tratamento clínico, adaptadas à gravidade dos achados e ao contexto clínico do paciente.
+   - **Base na Literatura:** Assegure que todas as recomendações estejam alinhadas com as melhores práticas e diretrizes clínicas disponíveis.
+
+#### Aplicação Prática:
+
+- **Exemplo de Aplicação:**
+  - **Plaquetas = 6 (impacto SHAP = 10.51364):**
+    - **Descrição:** Baixa contagem de plaquetas, indicando possível hipoplasia plaquetária.
+    - **Medidas de Manejo:** Monitorar coagulação, considerar estrogênios ou infusão de plaquetas, e manter hidratação adequada. Ajustar a terapia antipalúdica para minimizar efeitos secundários que possam impactar a coagulação.
+  - **Idagedias = 319 (impacto SHAP = 7.77383):**
+    - **Descrição:** Indicador de duração da doença ou idade do paciente.
+    - **Medidas de Manejo:** Avaliar condição geral, monitorar sinais vitais e ajustar tratamento conforme necessário, considerando comorbidades e interações medicamentosas.
+
+Esta diretriz visa fornecer uma abordagem abrangente e detalhada para o manejo de pacientes com Leishmaniose Visceral, utilizando insights de modelos de IA para melhorar a tomada de decisão clínica, garantindo uma avaliação técnica completa e uma aplicação ética e informada."
+4;"Baseado nos valores SHAP acima**, que formam o gráfico SHAP waterfall de um paciente {X} com Leishmaniose Visceral (com risco de morte {risco}% predito pelo modelo de IA), a diretriz a seguir fornece uma abordagem abrangente para análise e manejo clínico, integrando insights de IA com práticas médicas éticas e informadas.
+
+#### Componentes da Diretriz:
+
+1. **Interpretação Completa do Gráfico SHAP Waterfall:**
+   - **Descrição e Análise de Cada Feature:** Forneça uma explicação clara de cada feature listada no gráfico, destacando sua relevância clínica e impacto no risco predito de morte. Identifique as features com maior influência positiva ou negativa. Avalie todos os valores SHAP que contribuem para o aumento do risco de morte, explicando como cada feature afeta o risco predito.
+
+2. **Medidas de Manejo Clínico:**
+   - **Features que Elevam o Risco:** Para cada feature que aumenta o risco, liste as medidas de manejo clínico recomendadas, baseadas em diretrizes e literatura atual. Destaque ações específicas para mitigar o risco.
+   - **Features que Diminuem o Risco:** Inclua também as features que reduzem o risco, destacando práticas que podem ser reforçadas para melhorar o prognóstico.
+
+3. **Investigação de Valores Atípicos e Ações Corretivas:**
+   - **Monitoramento de Anomalias:** Destaque a importância de investigar valores atípicos, como contagens de plaquetas fora do normal, e suas implicações clínicas. Sugira ações corretivas ou monitoramento adicional para valores atípicos identificados.
+
+4. **Integração de Fatores Clínicos:**
+   - **Consideração de Contexto Clínico:** Encoraje a consideração de outros fatores clínicos além dos valores SHAP, como histórico médico do paciente, sintomas atuais e condições coexistentes.
+   - **Tomada de Decisão Holística:** Promova uma abordagem holística na tomada de decisão, integrando dados do modelo de IA com julgamento clínico.
+
+5. **Recomendações de Tratamento:**
+   - **Ações Específicas:** Forneça recomendações específicas para o tratamento clínico, adaptadas à gravidade dos achados e ao contexto clínico do paciente.
+   - **Base na Literatura:** Assegure que todas as recomendações estejam alinhadas com as melhores práticas e diretrizes clínicas disponíveis.
+
+#### Aplicação Prática:
+
+- **Exemplo de Aplicação:**
+  - **Plaquetas = 6 (impacto SHAP = 10.51364):**
+    - **Descrição:** Baixa contagem de plaquetas, indicando possível hipoplasia plaquetária.
+    - **Medidas de Manejo:** Monitorar coagulação, considerar estrogênios ou infusão de plaquetas, e manter hidratação adequada. Ajustar a terapia antipalúdica para minimizar efeitos secundários que possam impactar a coagulação.
+  - **Idagedias = 319 (impacto SHAP = 7.77383):**
+    - **Descrição:** Indicador de duração da doença ou idade do paciente.
+    - **Medidas de Manejo:** Avaliar condição geral, monitorar sinais vitais e ajustar tratamento conforme necessário, considerando comorbidades e interações medicamentosas.
+
+Esta diretriz refinada visa fornecer uma abordagem abrangente e detalhada para o manejo de pacientes com Leishmaniose Visceral, utilizando insights de modelos de IA para melhorar a tomada de decisão clínica, garantindo uma avaliação técnica completa e uma aplicação ética e informada.";"### Diretriz Refinada para Análise e Manejo Clínico de Leishmaniose Visceral
+
+**Baseado nos valores SHAP acima**, que formam o gráfico SHAP waterfall de um paciente {X} com Leishmaniose Visceral (com risco de morte {risco}% predito pelo modelo de IA), a diretriz a seguir fornece uma abordagem abrangente para análise e manejo clínico, integrando insights de IA com práticas médicas éticas e informadas.
+
+#### Componentes da Diretriz:
+
+1. **Interpretação Completa do Gráfico SHAP Waterfall:**
+   - **Descrição e Análise de Cada Feature:** Forneça uma explicação clara de cada feature listada no gráfico, destacando sua relevância clínica e impacto no risco predito de morte. Identifique as features com maior influência positiva ou negativa. Avalie todos os valores SHAP que contribuem para o aumento do risco de morte, explicando como cada feature afeta o risco predito.
+
+2. **Medidas de Manejo Clínico:**
+   - **Features que Elevam o Risco:** Para cada feature que aumenta o risco, liste as medidas de manejo clínico recomendadas, baseadas em diretrizes e literatura atual. Destaque ações específicas para mitigar o risco.
+   - **Features que Diminuem o Risco:** Inclua também as features que reduzem o risco, destacando práticas que podem ser reforçadas para melhorar o prognóstico.
+
+3. **Investigação de Valores Atípicos e Ações Corretivas:**
+   - **Monitoramento de Anomalias:** Destaque a importância de investigar valores atípicos, como contagens de plaquetas fora do normal, e suas implicações clínicas. Sugira ações corretivas ou monitoramento adicional para valores atípicos identificados.
+
+4. **Integração de Fatores Clínicos:**
+   - **Consideração de Contexto Clínico:** Encoraje a consideração de outros fatores clínicos além dos valores SHAP, como histórico médico do paciente, sintomas atuais e condições coexistentes.
+   - **Tomada de Decisão Holística:** Promova uma abordagem holística na tomada de decisão, integrando dados do modelo de IA com julgamento clínico.
+
+5. **Recomendações de Tratamento:**
+   - **Ações Específicas:** Forneça recomendações específicas para o tratamento clínico, adaptadas à gravidade dos achados e ao contexto clínico do paciente.
+   - **Base na Literatura:** Assegure que todas as recomendações estejam alinhadas com as melhores práticas e diretrizes clínicas disponíveis.
+
+#### Aplicação Prática:
+
+- **Exemplo de Aplicação:**
+  - **Plaquetas = 6 (impacto SHAP = 10.51364):**
+    - **Descrição:** Baixa contagem de plaquetas, indicando possível hipoplasia plaquetária.
+    - **Medidas de Manejo:** Monitorar coagulação, considerar estrogênios ou infusão de plaquetas, e manter hidratação adequada. Ajustar a terapia antipalúdica para minimizar efeitos secundários que possam impactar a coagulação.
+  - **Idagedias = 319 (impacto SHAP = 7.77383):**
+    - **Descrição:** Indicador de duração da doença ou idade do paciente.
+    - **Medidas de Manejo:** Avaliar condição geral, monitorar sinais vitais e ajustar tratamento conforme necessário, considerando comorbidades e interações medicamentosas.
+
+Esta diretriz refinada visa fornecer uma abordagem abrangente e detalhada para o manejo de pacientes com Leishmaniose Visceral, utilizando insights de modelos de IA para melhorar a tomada de decisão clínica, garantindo uma avaliação técnica completa e uma aplicação ética e informada."
+5;"Baseado nos valores SHAP acima**, que formam o gráfico SHAP waterfall de um paciente {X} com Leishmaniose Visceral (com risco de morte {risco}% predito pelo modelo de IA), a diretriz a seguir fornece uma abordagem abrangente para análise e manejo clínico, integrando insights de IA com práticas médicas éticas e informadas.
+
+#### Componentes da Diretriz:
+
+1. **Interpretação Completa do Gráfico SHAP Waterfall:**
+   - **Descrição e Análise de Cada Feature:** Forneça uma explicação clara de cada feature listada no gráfico, destacando sua relevância clínica e impacto no risco predito de morte. Identifique as features com maior influência positiva ou negativa. Avalie todos os valores SHAP que contribuem para o aumento do risco de morte, explicando como cada feature afeta o risco predito.
+
+2. **Medidas de Manejo Clínico:**
+   - **Features que Elevam o Risco:** Para cada feature que aumenta o risco, liste as medidas de manejo clínico recomendadas, baseadas em diretrizes e literatura atual. Destaque ações específicas para mitigar o risco.
+   - **Features que Diminuem o Risco:** Inclua também as features que reduzem o risco, destacando práticas que podem ser reforçadas para melhorar o prognóstico.
+
+3. **Investigação de Valores Atípicos e Ações Corretivas:**
+   - **Monitoramento de Anomalias:** Destaque a importância de investigar valores atípicos, como contagens de plaquetas fora do normal, e suas implicações clínicas. Sugira ações corretivas ou monitoramento adicional para valores atípicos identificados.
+
+4. **Integração de Fatores Clínicos:**
+   - **Consideração de Contexto Clínico:** Encoraje a consideração de outros fatores clínicos além dos valores SHAP, como histórico médico do paciente, sintomas atuais e condições coexistentes.
+   - **Tomada de Decisão Holística:** Promova uma abordagem holística na tomada de decisão, integrando dados do modelo de IA com julgamento clínico.
+
+5. **Recomendações de Tratamento:**
+   - **Ações Específicas:** Forneça recomendações específicas para o tratamento clínico, adaptadas à gravidade dos achados e ao contexto clínico do paciente.
+   - **Base na Literatura:** Assegure que todas as recomendações estejam alinhadas com as melhores práticas e diretrizes clínicas disponíveis.
+
+#### Aplicação Prática:
+
+- **Exemplo de Aplicação:**
+  - **Plaquetas = 6 (impacto SHAP = 10.51364):**
+    - **Descrição:** Baixa contagem de plaquetas, indicando possível hipoplasia plaquetária.
+    - **Medidas de Manejo:** Monitorar coagulação, considerar estrogênios ou infusão de plaquetas, e manter hidratação adequada. Ajustar a terapia antipalúdica para minimizar efeitos secundários que possam impactar a coagulação.
+  - **Idadedias = 319 (impacto SHAP = 7.77383):**
+    - **Descrição:** Indicador de duração da doença ou idade do paciente.
+    - **Medidas de Manejo:** Avaliar condição geral, monitorar sinais vitais e ajustar tratamento conforme necessário, considerando comorbidades e interações medicamentosas.
+
+Esta diretriz refinada visa fornecer uma abordagem abrangente e detalhada para o manejo de pacientes com Leishmaniose Visceral, utilizando insights de modelos de IA para melhorar a tomada de decisão clínica, garantindo uma avaliação técnica completa e uma aplicação ética e informada.";"### Diretriz Refinada para Análise e Manejo Clínico de Pacientes com Leishmaniose Visceral
+
+**Baseado nos valores SHAP acima**, que formam o gráfico SHAP waterfall de um paciente {X} com Leishmaniose Visceral (com risco de morte {risco}% predito pelo modelo de IA), a diretriz a seguir fornece uma abordagem abrangente para análise e manejo clínico, integrando insights de IA com práticas médicas éticas e informadas.
+
+#### Componentes da Diretriz:
+
+1. **Interpretação Completa do Gráfico SHAP Waterfall:**
+   - **Descrição e Análise de Cada Feature:** Forneça uma explicação clara de cada feature listada no gráfico, destacando sua relevância clínica e impacto no risco predito de morte. Identifique as features com maior influência positiva ou negativa. Avalie todos os valores SHAP que contribuem para o aumento do risco de morte, explicando como cada feature afeta o risco predito.
+
+2. **Medidas de Manejo Clínico:**
+   - **Features que Elevam o Risco:** Para cada feature que aumenta o risco, liste as medidas de manejo clínico recomendadas, baseadas em diretrizes e literatura atual. Destaque ações específicas para mitigar o risco.
+   - **Features que Diminuem o Risco:** Inclua também as features que reduzem o risco, destacando práticas que podem ser reforçadas para melhorar o prognóstico.
+
+3. **Investigação de Valores Atípicos e Ações Corretivas:**
+   - **Monitoramento de Anomalias:** Destaque a importância de investigar valores atípicos, como contagens de plaquetas fora do normal, e suas implicações clínicas. Sugira ações corretivas ou monitoramento adicional para valores atípicos identificados.
+
+4. **Integração de Fatores Clínicos:**
+   - **Consideração de Contexto Clínico:** Encoraje a consideração de outros fatores clínicos além dos valores SHAP, como histórico médico do paciente, sintomas atuais e condições coexistentes.
+   - **Tomada de Decisão Holística:** Promova uma abordagem holística na tomada de decisão, integrando dados do modelo de IA com julgamento clínico.
+
+5. **Recomendações de Tratamento:**
+   - **Ações Específicas:** Forneça recomendações específicas para o tratamento clínico, adaptadas à gravidade dos achados e ao contexto clínico do paciente.
+   - **Base na Literatura:** Assegure que todas as recomendações estejam alinhadas com as melhores práticas e diretrizes clínicas disponíveis.
+
+#### Aplicação Prática:
+
+- **Exemplo de Aplicação:**
+  - **Plaquetas = 6 (impacto SHAP = 10.51364):**
+    - **Descrição:** Baixa contagem de plaquetas, indicando possível hipoplasia plaquetária.
+    - **Medidas de Manejo:** Monitorar coagulação, considerar estrogênios ou infusão de plaquetas, e manter hidratação adequada. Ajustar a terapia antipalúdica para minimizar efeitos secundários que possam impactar a coagulação.
+  - **Idadedias = 319 (impacto SHAP = 7.77383):**
+    - **Descrição:** Indicador de duração da doença ou idade do paciente.
+    - **Medidas de Manejo:** Avaliar condição geral, monitorar sinais vitais e ajustar tratamento conforme necessário, considerando comorbidades e interações medicamentosas.
+
+Esta diretriz refinada visa fornecer uma abordagem abrangente e detalhada para o manejo de pacientes com Leishmaniose Visceral, utilizando insights de modelos de IA para melhorar a tomada de decisão clínica, garantindo uma avaliação técnica completa e uma aplicação ética e informada."
+6;"Baseado nos valores SHAP acima**, que formam o gráfico SHAP waterfall de um paciente {X} com Leishmaniose Visceral (com risco de morte {risco}% predito pelo modelo de IA), esta diretriz oferece uma abordagem abrangente para análise e manejo clínico, integrando insights de IA com práticas médicas éticas e informadas.
+
+#### Componentes da Diretriz:
+
+1. **Interpretação Completa do Gráfico SHAP Waterfall:**
+   - **Descrição e Análise de Cada Feature:** Forneça uma explicação clara de cada feature listada no gráfico, destacando sua relevância clínica e impacto no risco predito de morte. Identifique as features com maior influência positiva ou negativa. Avalie todos os valores SHAP que contribuem para o aumento do risco de morte, explicando como cada feature afeta o risco predito.
+
+2. **Medidas de Manejo Clínico:**
+   - **Features que Elevam o Risco:** Para cada feature que aumenta o risco, liste as medidas de manejo clínico recomendadas, baseadas em diretrizes e literatura atual. Destaque ações específicas para mitigar o risco.
+   - **Features que Diminuem o Risco:** Inclua também as features que reduzem o risco, destacando práticas que podem ser reforçadas para melhorar o prognóstico.
+
+3. **Investigação de Valores Atípicos e Ações Corretivas:**
+   - **Monitoramento de Anomalias:** Destaque a importância de investigar valores atípicos, como contagens de plaquetas fora do normal, e suas implicações clínicas. Sugira ações corretivas ou monitoramento adicional para valores atípicos identificados.
+
+4. **Integração de Fatores Clínicos:**
+   - **Consideração de Contexto Clínico:** Encoraje a consideração de outros fatores clínicos além dos valores SHAP, como histórico médico do paciente, sintomas atuais e condições coexistentes.
+   - **Tomada de Decisão Holística:** Promova uma abordagem holística na tomada de decisão, integrando dados do modelo de IA com julgamento clínico.
+
+5. **Recomendações de Tratamento:**
+   - **Ações Específicas:** Forneça recomendações específicas para o tratamento clínico, adaptadas à gravidade dos achados e ao contexto clínico do paciente.
+   - **Base na Literatura:** Assegure que todas as recomendações estejam alinhadas com as melhores práticas e diretrizes clínicas disponíveis.
+
+#### Aplicação Prática:
+
+- **Exemplo de Aplicação:**
+  - **Plaquetas = 6 (impacto SHAP = 10.51364):**
+    - **Descrição:** Baixa contagem de plaquetas, indicando possível hipoplasia plaquetária.
+    - **Medidas de Manejo:** Monitorar coagulação, considerar estrogênios ou infusão de plaquetas, e manter hidratação adequada. Ajustar a terapia antipalúdica para minimizar efeitos secundários que possam impactar a coagulação.
+  - **Idadedias = 319 (impacto SHAP = 7.77383):**
+    - **Descrição:** Indicador de duração da doença ou idade do paciente.
+    - **Medidas de Manejo:** Avaliar condição geral, monitorar sinais vitais e ajustar tratamento conforme necessário, considerando comorbidades e interações medicamentosas.
+
+Esta diretriz refinada visa fornecer uma abordagem abrangente e detalhada para o manejo de pacientes com Leishmaniose Visceral, utilizando insights de modelos de IA para melhorar a tomada de decisão clínica, garantindo uma avaliação técnica completa e uma aplicação ética e informada. A inclusão de {X} e {risco} na diretriz garante que ela continue a atender às necessidades específicas do paciente e da predição de risco de morte, permitindo uma aplicação mais precisa e personalizada.";"### Diretriz Refinada para Análise e Manejo Clínico de Leishmaniose Visceral
+
+**Baseado nos valores SHAP acima**, que formam o gráfico SHAP waterfall de um paciente {X} com Leishmaniose Visceral (com risco de morte {risco}% predito pelo modelo de IA), esta diretriz oferece uma abordagem abrangente para análise e manejo clínico, integrando insights de IA com práticas médicas éticas e informadas.
+
+#### Componentes da Diretriz:
+
+1. **Interpretação Completa do Gráfico SHAP Waterfall:**
+   - **Descrição e Análise de Cada Feature:** Forneça uma explicação clara de cada feature listada no gráfico, destacando sua relevância clínica e impacto no risco predito de morte. Identifique as features com maior influência positiva ou negativa. Avalie todos os valores SHAP que contribuem para o aumento do risco de morte, explicando como cada feature afeta o risco predito.
+
+2. **Medidas de Manejo Clínico:**
+   - **Features que Elevam o Risco:** Para cada feature que aumenta o risco, liste as medidas de manejo clínico recomendadas, baseadas em diretrizes e literatura atual. Destaque ações específicas para mitigar o risco.
+   - **Features que Diminuem o Risco:** Inclua também as features que reduzem o risco, destacando práticas que podem ser reforçadas para melhorar o prognóstico.
+
+3. **Investigação de Valores Atípicos e Ações Corretivas:**
+   - **Monitoramento de Anomalias:** Destaque a importância de investigar valores atípicos, como contagens de plaquetas fora do normal, e suas implicações clínicas. Sugira ações corretivas ou monitoramento adicional para valores atípicos identificados.
+
+4. **Integração de Fatores Clínicos:**
+   - **Consideração de Contexto Clínico:** Encoraje a consideração de outros fatores clínicos além dos valores SHAP, como histórico médico do paciente, sintomas atuais e condições coexistentes.
+   - **Tomada de Decisão Holística:** Promova uma abordagem holística na tomada de decisão, integrando dados do modelo de IA com julgamento clínico.
+
+5. **Recomendações de Tratamento:**
+   - **Ações Específicas:** Forneça recomendações específicas para o tratamento clínico, adaptadas à gravidade dos achados e ao contexto clínico do paciente.
+   - **Base na Literatura:** Assegure que todas as recomendações estejam alinhadas com as melhores práticas e diretrizes clínicas disponíveis.
+
+#### Aplicação Prática:
+
+- **Exemplo de Aplicação:**
+  - **Plaquetas = 6 (impacto SHAP = 10.51364):**
+    - **Descrição:** Baixa contagem de plaquetas, indicando possível hipoplasia plaquetária.
+    - **Medidas de Manejo:** Monitorar coagulação, considerar estrogênios ou infusão de plaquetas, e manter hidratação adequada. Ajustar a terapia antipalúdica para minimizar efeitos secundários que possam impactar a coagulação.
+  - **Idadedias = 319 (impacto SHAP = 7.77383):**
+    - **Descrição:** Indicador de duração da doença ou idade do paciente.
+    - **Medidas de Manejo:** Avaliar condição geral, monitorar sinais vitais e ajustar tratamento conforme necessário, considerando comorbidades e interações medicamentosas.
+
+Esta diretriz refinada visa fornecer uma abordagem abrangente e detalhada para o manejo de pacientes com Leishmaniose Visceral, utilizando insights de modelos de IA para melhorar a tomada de decisão clínica, garantindo uma avaliação técnica completa e uma aplicação ética e informada. A inclusão de {X} e {risco} na diretriz garante que ela continue a atender às necessidades específicas do paciente e da predição de risco de morte, permitindo uma aplicação mais precisa e personalizada."
+7;"Baseado nos valores SHAP acima, que formam o gráfico SHAP waterfall de um paciente {X} com Leishmaniose Visceral (com risco de morte {risco}% predito pelo modelo de IA), esta diretriz refinada oferece uma abordagem abrangente para análise e manejo clínico, integrando insights de IA com práticas médicas éticas e informadas.**
+
+#### Componentes da Diretriz:
+
+1. **Interpretação Completa do Gráfico SHAP Waterfall:**
+   - **Análise de Features:** Avalie todos os valores SHAP que contribuem para o aumento do risco de morte, explicando como cada feature afeta o risco predito. Destaque as features com maior influência positiva ou negativa.
+   - **Impacto Clínico:** Forneça uma explicação clara de cada feature listada no gráfico, destacando sua relevância clínica e impacto no risco predito de morte.
+
+2. **Medidas de Manejo Clínico:**
+   - **Features que Elevam o Risco:**
+     - Liste e detalhe medidas de manejo clínico para cada feature que aumenta o risco, baseadas em diretrizes e literatura atual.
+     - Destaque ações específicas para mitigar o risco, como ajustes terapêuticos ou monitoramento intensificado.
+   - **Features que Diminuem o Risco:**
+     - Inclua também as features que reduzem o risco, destacando práticas que podem ser reforçadas para melhorar o prognóstico.
+
+3. **Investigação de Valores Atípicos e Ações Corretivas:**
+   - **Monitoramento de Anomalias:** Destaque a importância de investigar valores atípicos, como contagens de plaquetas fora do normal, e suas implicações clínicas.
+   - **Ações Corretivas:** Sugira ações corretivas ou monitoramento adicional para valores atípicos identificados.
+
+4. **Integração de Fatores Clínicos:**
+   - **Consideração de Contexto Clínico:** Encoraje a consideração de outros fatores clínicos além dos valores SHAP, como histórico médico do paciente, sintomas atuais e condições coexistentes.
+   - **Tomada de Decisão Holística:** Promova uma abordagem holística na tomada de decisão, integrando dados do modelo de IA com julgamento clínico.
+
+5. **Recomendações de Tratamento:**
+   - **Ações Específicas:** Forneça recomendações específicas para o tratamento clínico, adaptadas à gravidade dos achados e ao contexto clínico do paciente.
+   - **Base na Literatura:** Assegure que todas as recomendações estejam alinhadas com as melhores práticas e diretrizes clínicas disponíveis.
+
+#### Aplicação Prática:
+
+- **Exemplo de Aplicação:**
+  - **Plaquetas = 6 (impacto SHAP = 10.51364):**
+    - **Descrição:** Baixa contagem de plaquetas, indicando possível hipoplasia plaquetária.
+    - **Medidas de Manejo:** Avalie coagulação, considere estrogênios ou infusão de plaquetas, e mantenha hidratação adequada. Ajuste a terapia antipalúdica para minimizar efeitos secundários que possam impactar a coagulação.
+  - **Idagedias = 319 (impacto SHAP = 7.77383):**
+    - **Descrição:** Indicador de duração da doença ou idade do paciente.
+    - **Medidas de Manejo:** Avalie condição geral, monitorando sinais vitais e ajuste o tratamento conforme necessário, considerando comorbidades e interações medicamentosas.
+
+Esta diretriz refinada visa fornecer uma abordagem abrangente e detalhada para o manejo de pacientes com Leishmaniose Visceral, utilizando insights de modelos de IA para melhorar a tomada de decisão clínica, garantindo uma avaliação técnica completa e uma aplicação ética e informada. A inclusão de {X} e {risco} na diretriz garante que ela continue a atender às necessidades específicas do paciente e da predição de risco de morte, permitindo uma aplicação mais precisa e personalizada.";"### Diretriz Refinada para Manejo Clínico de Paciente com Leishmaniose Visceral
+
+**Baseado nos valores SHAP acima, que formam o gráfico SHAP waterfall de um paciente {X} com Leishmaniose Visceral, esta diretriz refinada oferece uma abordagem abrangente para análise e manejo clínico, integrando insights de IA com práticas médicas éticas e informadas.**
+
+#### Componentes da Diretriz:
+
+1. **Interpretação Completa do Gráfico SHAP Waterfall:**
+   - **Análise de Features:** Avalie todos os valores SHAP que contribuem para o aumento do risco de morte, explicando como cada feature afeta o risco predito. Destaque as features com maior influência positiva ou negativa.
+   - **Impacto Clínico:** Forneça uma explicação clara de cada feature listada no gráfico, destacando sua relevância clínica e impacto no risco predito de morte.
+
+2. **Medidas de Manejo Clínico:**
+   - **Features que Elevam o Risco:**
+     - Liste e detalhe medidas de manejo clínico para cada feature que aumenta o risco, baseadas em diretrizes e literatura atual.
+     - Destaque ações específicas para mitigar o risco, como ajustes terapêuticos ou monitoramento intensificado.
+   - **Features que Diminuem o Risco:**
+     - Inclua também as features que reduzem o risco, destacando práticas que podem ser reforçadas para melhorar o prognóstico.
+
+3. **Investigação de Valores Atípicos e Ações Corretivas:**
+   - **Monitoramento de Anomalias:** Destaque a importância de investigar valores atípicos, como contagens de plaquetas fora do normal, e suas implicações clínicas.
+   - **Ações Corretivas:** Sugira ações corretivas ou monitoramento adicional para valores atípicos identificados.
+
+4. **Integração de Fatores Clínicos:**
+   - **Consideração de Contexto Clínico:** Encoraje a consideração de outros fatores clínicos além dos valores SHAP, como histórico médico do paciente, sintomas atuais e condições coexistentes.
+   - **Tomada de Decisão Holística:** Promova uma abordagem holística na tomada de decisão, integrando dados do modelo de IA com julgamento clínico.
+
+5. **Recomendações de Tratamento:**
+   - **Ações Específicas:** Forneça recomendações específicas para o tratamento clínico, adaptadas à gravidade dos achados e ao contexto clínico do paciente.
+   - **Base na Literatura:** Assegure que todas as recomendações estejam alinhadas com as melhores práticas e diretrizes clínicas disponíveis.
+
+#### Aplicação Prática:
+
+- **Exemplo de Aplicação:**
+  - **Plaquetas = 6 (impacto SHAP = 10.51364):**
+    - **Descrição:** Baixa contagem de plaquetas, indicando possível hipoplasia plaquetária.
+    - **Medidas de Manejo:** Avalie coagulação, considere estrogênios ou infusão de plaquetas, e mantenha hidratação adequada. Ajuste a terapia antipalúdica para minimizar efeitos secundários que possam impactar a coagulação.
+  - **Idagedias = 319 (impacto SHAP = 7.77383):**
+    - **Descrição:** Indicador de duração da doença ou idade do paciente.
+    - **Medidas de Manejo:** Avalie condição geral, monitorando sinais vitais e ajuste o tratamento conforme necessário, considerando comorbidades e interações medicamentosas.
+
+Esta diretriz refinada visa fornecer uma abordagem abrangente e detalhada para o manejo de pacientes com Leishmaniose Visceral, utilizando insights de modelos de IA para melhorar a tomada de decisão clínica, garantindo uma avaliação técnica completa e uma aplicação ética e informada. A inclusão de {X} e {risco} na diretriz garante que ela continue a atender às necessidades específicas do paciente e da predição de risco de morte, permitindo uma aplicação mais precisa e personalizada."
+8;"Baseado nos valores SHAP acima, que formam o gráfico SHAP waterfall de um paciente {X} com Leishmaniose Visceral (com risco de morte {risco}% predito pelo modelo de IA), esta diretriz refinada oferece uma abordagem abrangente para análise e manejo clínico, integrando insights de IA com práticas médicas éticas e informadas.**
+
+#### Componentes da Diretriz:
+
+1. **Interpretação Completa do Gráfico SHAP Waterfall:**
+   - **Análise de Features:** Avalie todos os valores SHAP que contribuem para o aumento do risco de morte de {risco}%, explicando como cada feature afeta o risco predito. Destaque as features com maior influência positiva ou negativa.
+   - **Impacto Clínico:** Forneça uma explicação clara de cada feature listada no gráfico, destacando sua relevância clínica e impacto no risco predito de morte.
+
+2. **Medidas de Manejo Clínico:**
+   - **Features que Elevam o Risco:**
+     - Liste e detalhe medidas de manejo clínico para cada feature que aumenta o risco de {X}, baseadas em diretrizes e literatura atual.
+     - Destaque ações específicas para mitigar o risco, como ajustes terapêuticos ou monitoramento intensificado.
+   - **Features que Diminuem o Risco:**
+     - Inclua também as features que reduzem o risco de {risco}%, destacando práticas que podem ser reforçadas para melhorar o prognóstico.
+
+3. **Investigação de Valores Atípicos e Ações Corretivas:**
+   - **Monitoramento de Anomalias:** Destaque a importância de investigar valores atípicos, como contagens de plaquetas fora do normal, e suas implicações clínicas.
+   - **Ações Corretivas:** Sugira ações corretivas ou monitoramento adicional para valores atípicos identificados.
+
+4. **Integração de Fatores Clínicos:**
+   - **Consideração de Contexto Clínico:** Encoraje a consideração de outros fatores clínicos além dos valores SHAP, como histórico médico do paciente, sintomas atuais e condições coexistentes.
+   - **Tomada de Decisão Holística:** Promova uma abordagem holística na tomada de decisão, integrando dados do modelo de IA com julgamento clínico.
+
+5. **Recomendações de Tratamento:**
+   - **Ações Específicas:** Forneça recomendações específicas para o tratamento clínico de {X}, adaptadas à gravidade dos achados e ao contexto clínico do paciente.
+   - **Base na Literatura:** Assegure que todas as recomendações estejam alinhadas com as melhores práticas e diretrizes clínicas disponíveis.
+
+#### Aplicação Prática:
+
+- **Exemplo de Aplicação:**
+  - **Plaquetas = 6 (impacto SHAP = 10.51364):**
+    - **Descrição:** Baixa contagem de plaquetas, indicando possível hipoplasia plaquetária.
+    - **Medidas de Manejo:** Avalie coagulação, considere estrogênios ou infusão de plaquetas, e mantenha hidratação adequada. Ajuste a terapia antipalúdica para minimizar efeitos secundários que possam impactar a coagulação.
+  - **Idagedias = 319 (impacto SHAP = 7.77383):**
+    - **Descrição:** Indicador de duração da doença ou idade do paciente.
+    - **Medidas de Manejo:** Avalie condição geral, monitorando sinais vitais e ajuste o tratamento conforme necessário, considerando comorbidades e interações medicamentosas.
+
+Esta diretriz refinada visa fornecer uma abordagem abrangente e detalhada para o manejo de pacientes com Leishmaniose Visceral, utilizando insights de modelos de IA para melhorar a tomada de decisão clínica, garantindo uma avaliação técnica completa e uma aplicação ética e informada. A inclusão de {X} e {risco}% na diretriz garante que ela continue a atender às necessidades específicas do paciente e da predição de risco de morte, permitindo uma aplicação mais precisa e personalizada.";"### Nova Diretriz Refinada para Manejo de Leishmaniose Visceral com Análise de IA
+
+**Baseado nos valores SHAP acima, que formam o gráfico SHAP waterfall de um paciente {X} com Leishmaniose Visceral (com risco de morte {risco}% predito pelo modelo de IA), esta diretriz refinada oferece uma abordagem abrangente para análise e manejo clínico, integrando insights de IA com práticas médicas éticas e informadas.**
+
+#### Componentes da Diretriz:
+
+1. **Interpretação Completa do Gráfico SHAP Waterfall:**
+   - **Análise de Features:** Avalie todos os valores SHAP que contribuem para o aumento do risco de morte de {risco}%, explicando como cada feature afeta o risco predito. Destaque as features com maior influência positiva ou negativa.
+   - **Impacto Clínico:** Forneça uma explicação clara de cada feature listada no gráfico, destacando sua relevância clínica e impacto no risco predito de morte.
+
+2. **Medidas de Manejo Clínico:**
+   - **Features que Elevam o Risco:**
+     - Liste e detalhe medidas de manejo clínico para cada feature que aumenta o risco de {X}, baseadas em diretrizes e literatura atual.
+     - Destaque ações específicas para mitigar o risco, como ajustes terapêuticos ou monitoramento intensificado.
+   - **Features que Diminuem o Risco:**
+     - Inclua também as features que reduzem o risco de {risco}%, destacando práticas que podem ser reforçadas para melhorar o prognóstico.
+
+3. **Investigação de Valores Atípicos e Ações Corretivas:**
+   - **Monitoramento de Anomalias:** Destaque a importância de investigar valores atípicos, como contagens de plaquetas fora do normal, e suas implicações clínicas.
+   - **Ações Corretivas:** Sugira ações corretivas ou monitoramento adicional para valores atípicos identificados.
+
+4. **Integração de Fatores Clínicos:**
+   - **Consideração de Contexto Clínico:** Encoraje a consideração de outros fatores clínicos além dos valores SHAP, como histórico médico do paciente, sintomas atuais e condições coexistentes.
+   - **Tomada de Decisão Holística:** Promova uma abordagem holística na tomada de decisão, integrando dados do modelo de IA com julgamento clínico.
+
+5. **Recomendações de Tratamento:**
+   - **Ações Específicas:** Forneça recomendações específicas para o tratamento clínico de {X}, adaptadas à gravidade dos achados e ao contexto clínico do paciente.
+   - **Base na Literatura:** Assegure que todas as recomendações estejam alinhadas com as melhores práticas e diretrizes clínicas disponíveis.
+
+#### Aplicação Prática:
+
+- **Exemplo de Aplicação:**
+  - **Plaquetas = 6 (impacto SHAP = 10.51364):**
+    - **Descrição:** Baixa contagem de plaquetas, indicando possível hipoplasia plaquetária.
+    - **Medidas de Manejo:** Avalie coagulação, considere estrogênios ou infusão de plaquetas, e mantenha hidratação adequada. Ajuste a terapia antipalúdica para minimizar efeitos secundários que possam impactar a coagulação.
+  - **Idagedias = 319 (impacto SHAP = 7.77383):**
+    - **Descrição:** Indicador de duração da doença ou idade do paciente.
+    - **Medidas de Manejo:** Avalie condição geral, monitorando sinais vitais e ajuste o tratamento conforme necessário, considerando comorbidades e interações medicamentosas.
+
+Esta diretriz refinada visa fornecer uma abordagem abrangente e detalhada para o manejo de pacientes com Leishmaniose Visceral, utilizando insights de modelos de IA para melhorar a tomada de decisão clínica, garantindo uma avaliação técnica completa e uma aplicação ética e informada. A inclusão de {X} e {risco}% na diretriz garante que ela continue a atender às necessidades específicas do paciente e da predição de risco de morte, permitindo uma aplicação mais precisa e personalizada."
+9;"Baseado nos valores Shapley acima, a nova diretriz refinada para o manejo clínico de pacientes com Leishmaniose Visceral, considerando a predição de risco de morte de {risco}% do paciente {X}, é estruturada da seguinte forma:
+
+1. **Interpretação Completa do Gráfico SHAP Waterfall:**
+   - **Análise de Features:** Avalie todos os valores Shapley que contribuem para o aumento do risco de morte de {risco}%, explicando como cada feature afeta o risco predito. Destaque as features com maior influência positiva ou negativa.
+   - **Impacto Clínico:** Forneça uma explicação clara de cada feature listada no gráfico, destacando sua relevância clínica e impacto no risco predito de morte.
+
+2. **Medidas de Manejo Clínico:**
+   - **Features que Elevam o Risco:**
+     - Liste e detalhe medidas de manejo clínico para cada feature que aumenta o risco de {X}, baseadas em diretrizes e literatura atual.
+     - Destaque ações específicas para mitigar o risco, como ajustes terapêuticos ou monitoramento intensificado.
+   - **Features que Diminuem o Risco:**
+     - Inclua também as features que reduzem o risco de {risco}%, destacando práticas que podem ser reforçadas para melhorar o prognóstico.
+
+3. **Investigação de Valores Atípicos e Ações Corretivas:**
+   - **Monitoramento de Anomalias:** Destaque a importância de investigar valores atípicos, como contagens de plaquetas fora do normal, e suas implicações clínicas.
+   - **Ações Corretivas:** Sugira ações corretivas ou monitoramento adicional para valores atípicos identificados.
+
+4. **Integração de Fatores Clínicos:**
+   - **Consideração de Contexto Clínico:** Encoraje a consideração de outros fatores clínicos além dos valores Shapley, como histórico médico do paciente, sintomas atuais e condições coexistentes.
+   - **Tomada de Decisão Holística:** Promova uma abordagem holística na tomada de decisão, integrando dados do modelo de IA com julgamento clínico.
+
+5. **Recomendações de Tratamento:**
+   - **Ações Específicas:** Forneça recomendações específicas para o tratamento clínico de {X}, adaptadas à gravidade dos achados e ao contexto clínico do paciente.
+   - **Base na Literatura:** Assegure que todas as recomendações estejam alinhadas com as melhores práticas e diretrizes clínicas disponíveis.
+
+#### Aplicação Prática:
+
+- **Exemplo de Aplicação:**
+  - **Plaquetas = 6 (impacto SHAP = 10.51364):**
+    - **Descrição:** Baixa contagem de plaquetas, indicando possível hipoplasia plaquetária.
+    - **Medidas de Manejo:** Avalie coagulação, considere estrogênios ou infusão de plaquetas, e mantenha hidratação adequada. Ajuste a terapia antipalúdica para minimizar efeitos secundários que possam impactar a coagulação.
+  - **Idade = 319 (impacto SHAP = 7.77383):**
+    - **Descrição:** Indicador de duração da doença ou idade do paciente.
+    - **Medidas de Manejo:** Avalie condição geral, monitorando sinais vitais e ajuste o tratamento conforme necessário, considerando comorbidades e interações medicamentosas.
+
+Esta diretriz refinada visa fornecer uma abordagem abrangente e detalhada para o manejo de pacientes com Leishmaniose Visceral, utilizando insights de modelos de IA para melhorar a tomada de decisão clínica, garantindo uma avaliação técnica completa e uma aplicação ética e informada. A inclusão de {X} e {risco}% na diretriz garante que ela continue a atender às necessidades específicas do paciente e da predição de risco de morte, permitindo uma aplicação mais precisa e personalizada.";"Baseado nos valores Shapley acima, a nova diretriz refinada para o manejo clínico de pacientes com Leishmaniose Visceral, considerando a predição de risco de morte de {risco}%, é estruturada da seguinte forma:
+
+1. **Interpretação Completa do Gráfico SHAP Waterfall:**
+   - **Análise de Features:** Avalie todos os valores Shapley que contribuem para o aumento do risco de morte de {risco}%, explicando como cada feature afeta o risco predito. Destaque as features com maior influência positiva ou negativa.
+   - **Impacto Clínico:** Forneça uma explicação clara de cada feature listada no gráfico, destacando sua relevância clínica e impacto no risco predito de morte.
+
+2. **Medidas de Manejo Clínico:**
+   - **Features que Elevam o Risco:**
+     - Liste e detalhe medidas de manejo clínico para cada feature que aumenta o risco de {X}, baseadas em diretrizes e literatura atual.
+     - Destaque ações específicas para mitigar o risco, como ajustes terapêuticos ou monitoramento intensificado.
+   - **Features que Diminuem o Risco:**
+     - Inclua também as features que reduzem o risco de {risco}%, destacando práticas que podem ser reforçadas para melhorar o prognóstico.
+
+3. **Investigação de Valores Atípicos e Ações Corretivas:**
+   - **Monitoramento de Anomalias:** Destaque a importância de investigar valores atípicos, como contagens de plaquetas fora do normal, e suas implicações clínicas.
+   - **Ações Corretivas:** Sugira ações corretivas ou monitoramento adicional para valores atípicos identificados.
+
+4. **Integração de Fatores Clínicos:**
+   - **Consideração de Contexto Clínico:** Encoraje a consideração de outros fatores clínicos além dos valores Shapley, como histórico médico do paciente, sintomas atuais e condições coexistentes.
+   - **Tomada de Decisão Holística:** Promova uma abordagem holística na tomada de decisão, integrando dados do modelo de IA com julgamento clínico.
+
+5. **Recomendações de Tratamento:**
+   - **Ações Específicas:** Forneça recomendações específicas para o tratamento clínico de {X}, adaptadas à gravidade dos achados e ao contexto clínico do paciente.
+   - **Base na Literatura:** Assegure que todas as recomendações estejam alinhadas com as melhores práticas e diretrizes clínicas disponíveis.
+
+#### Aplicação Prática:
+
+- **Exemplo de Aplicação:**
+  - **Plaquetas = 6 (impacto SHAP = 10.51364):**
+    - **Descrição:** Baixa contagem de plaquetas, indicando possível hipoplasia plaquetária.
+    - **Medidas de Manejo:** Avalie coagulação, considere estrogênios ou infusão de plaquetas, e mantenha hidratação adequada. Ajuste a terapia antipalúdica para minimizar efeitos secundários que possam impactar a coagulação.
+  - **Idade = 319 (impacto SHAP = 7.77383):**
+    - **Descrição:** Indicador de duração da doença ou idade do paciente.
+    - **Medidas de Manejo:** Avalie condição geral, monitorando sinais vitais e ajuste o tratamento conforme necessário, considerando comorbidades e interações medicamentosas.
+
+Esta diretriz refinada visa fornecer uma abordagem abrangente e detalhada para o manejo de pacientes com Leishmaniose Visceral, utilizando insights de modelos de IA para melhorar a tomada de decisão clínica, garantindo uma avaliação técnica completa e uma aplicação ética e informada. A inclusão de {X} e {risco}% na diretriz garante que ela continue a atender às necessidades específicas do paciente e da predição de risco de morte, permitindo uma aplicação mais precisa e personalizada."
+10;"Baseado nos valores Shapley acima, a nova diretriz refinada para o manejo clínico de pacientes com Leishmaniose Visceral, com foco na predição de risco de morte de 3.613474517778232% para o paciente 1761, é estruturada da seguinte forma:
+
+1. **Interpretação Completa do Gráfico SHAP Waterfall:**
+   - **Análise de Features:** Avalie todos os valores Shapley que contribuem para o aumento do risco de morte de 3.613474517778232%, explicando como cada feature afeta o risco predito. Destaque as features com maior influência positiva ou negativa.
+   - **Impacto Clínico:** Forneça uma explicação clara de cada feature listada no gráfico, destacando sua relevância clínica e impacto no risco predito de morte.
+
+2. **Medidas de Manejo Clínico:**
+   - **Features que Elevam o Risco:**
+     - Liste e detalhe medidas de manejo clínico para cada feature que aumenta o risco do paciente 1761, baseadas em diretrizes e literatura atual.
+     - Destaque ações específicas para mitigar o risco, como ajustes terapêuticos ou monitoramento intensificado.
+   - **Features que Diminuem o Risco:**
+     - Inclua também as features que reduzem o risco de 3.613474517778232%, destacando práticas que podem ser reforçadas para melhorar o prognóstico.
+
+3. **Investigação de Valores Atípicos e Ações Corretivas:**
+   - **Monitoramento de Anomalias:** Destaque a importância de investigar valores atípicos, como contagens de plaquetas fora do normal, e suas implicações clínicas.
+   - **Ações Corretivas:** Sugira ações corretivas ou monitoramento adicional para valores atípicos identificados.
+
+4. **Integração de Fatores Clínicos:**
+   - **Consideração de Contexto Clínico:** Encoraje a consideração de outros fatores clínicos além dos valores Shapley, como histórico médico do paciente, sintomas atuais e condições coexistentes.
+   - **Tomada de Decisão Holística:** Promova uma abordagem holística na tomada de decisão, integrando dados do modelo de IA com julgamento clínico.
+
+5. **Recomendações de Tratamento:**
+   - **Ações Específicas:** Forneça recomendações específicas para o tratamento clínico do paciente 1761, adaptadas à gravidade dos achados e ao contexto clínico do paciente.
+   - **Base na Literatura:** Assegure que todas as recomendações estejam alinhadas com as melhores práticas e diretrizes clínicas disponíveis.
+
+#### Aplicação Prática:
+
+- **Exemplo de Aplicação:**
+  - **Plaquetas = 6 (impacto SHAP = 10.51364):**
+    - **Descrição:** Baixa contagem de plaquetas, indicando possível hipoplasia plaquetária.
+    - **Medidas de Manejo:** Avalie coagulação, considere estrogênios ou infusão de plaquetas, e mantenha hidratação adequada. Ajuste a terapia antipalúdica para minimizar efeitos secundários que possam impactar a coagulação.
+  - **Idade = 319 (impacto SHAP = 7.77383):**
+    - **Descrição:** Indicador de duração da doença ou idade do paciente.
+    - **Medidas de Manejo:** Avalie condição geral, monitorando sinais vitais e ajuste o tratamento conforme necessário, considerando comorbidades e interações medicamentosas.
+
+Esta diretriz refinada visa fornecer uma abordagem abrangente e detalhada para o manejo de pacientes com Leishmaniose Visceral, utilizando insights de modelos de IA para melhorar a tomada de decisão clínica, garantindo uma avaliação técnica completa e uma aplicação ética e informada. A inclusão do paciente 1761 e do risco de 3.613474517778232% na diretriz garante que ela continue a atender às necessidades específicas do paciente e da predição de risco de morte, permitindo uma aplicação mais precisa e personalizada.";

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Ambientes virtuais
+venv/
+env/
+.env
+
+# VS Code
+.vscode/
